@@ -1,0 +1,14 @@
+C:\Users\varre\source\repos\Buckix_DZ5_Array73\Buckix_DZ5_Array73\bin\Debug\net8.0\Buckix_DZ5_Array73.exe
+C:\Users\varre\source\repos\Buckix_DZ5_Array73\Buckix_DZ5_Array73\bin\Debug\net8.0\Buckix_DZ5_Array73.deps.json
+C:\Users\varre\source\repos\Buckix_DZ5_Array73\Buckix_DZ5_Array73\bin\Debug\net8.0\Buckix_DZ5_Array73.runtimeconfig.json
+C:\Users\varre\source\repos\Buckix_DZ5_Array73\Buckix_DZ5_Array73\bin\Debug\net8.0\Buckix_DZ5_Array73.dll
+C:\Users\varre\source\repos\Buckix_DZ5_Array73\Buckix_DZ5_Array73\bin\Debug\net8.0\Buckix_DZ5_Array73.pdb
+C:\Users\varre\source\repos\Buckix_DZ5_Array73\Buckix_DZ5_Array73\obj\Debug\net8.0\Buckix_DZ5_Array73.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varre\source\repos\Buckix_DZ5_Array73\Buckix_DZ5_Array73\obj\Debug\net8.0\Buckix_DZ5_Array73.AssemblyInfoInputs.cache
+C:\Users\varre\source\repos\Buckix_DZ5_Array73\Buckix_DZ5_Array73\obj\Debug\net8.0\Buckix_DZ5_Array73.AssemblyInfo.cs
+C:\Users\varre\source\repos\Buckix_DZ5_Array73\Buckix_DZ5_Array73\obj\Debug\net8.0\Buckix_DZ5_Array73.csproj.CoreCompileInputs.cache
+C:\Users\varre\source\repos\Buckix_DZ5_Array73\Buckix_DZ5_Array73\obj\Debug\net8.0\Buckix_DZ5_Array73.dll
+C:\Users\varre\source\repos\Buckix_DZ5_Array73\Buckix_DZ5_Array73\obj\Debug\net8.0\refint\Buckix_DZ5_Array73.dll
+C:\Users\varre\source\repos\Buckix_DZ5_Array73\Buckix_DZ5_Array73\obj\Debug\net8.0\Buckix_DZ5_Array73.pdb
+C:\Users\varre\source\repos\Buckix_DZ5_Array73\Buckix_DZ5_Array73\obj\Debug\net8.0\Buckix_DZ5_Array73.genruntimeconfig.cache
+C:\Users\varre\source\repos\Buckix_DZ5_Array73\Buckix_DZ5_Array73\obj\Debug\net8.0\ref\Buckix_DZ5_Array73.dll
